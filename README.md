@@ -11,8 +11,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Example 1                                     | <a href="https://google.com">Detection Lab</a>|
-| Example 2                                     | <a href="https://google.com">Detection Lab</a>|
+| Bash Scripting                                | <a href="https://google.com">Detection Lab</a>|
+| Example                                       | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
 
