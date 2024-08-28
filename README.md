@@ -14,10 +14,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Bash Scripting                                | <a href="https://github.com/Jawnzee/IP-Sweeper/tree/main">IP Sweeper</a>|
 | Python Programming                            | <a href="https://github.com/Jawnzee/NetScanner/tree/main">Network Scanner</a>|
 | Networking Fundamentals                       | <a href="https://github.com/Jawnzee/IP-Sweeper/tree/main">IP Sweeper</a>, <a href="https://github.com/Jawnzee/NetScanner/tree/main">Network Scanner</a>|
-| Network Scanner                               | <a href="https://github.com/Jawnzee/NetScanner/tree/main">Network Scanner</a>|
+| Network Scanning                              | <a href="https://github.com/Jawnzee/NetScanner/tree/main">Network Scanner</a>|
+| Vulnerability Scanning                        | <a href="https://github.com/Jawnzee/VulScanner/tree/main">Vulnerability Scanner</a>|
 | Linux Command Line                            | <a href="https://github.com/Jawnzee/IP-Sweeper/tree/main">IP Sweeper</a>|
 | Scapy Library                                 | <a href="https://github.com/Jawnzee/NetScanner/tree/main">Network Scanner</a>|
 | File Handling (Bash)                          | <a href="https://github.com/Jawnzee/NetScanner/tree/main">Network Scanner</a>|
+| nvdlib for CVE Queries                        | <a href="https://github.com/Jawnzee/VulScanner/tree/main">Vulnerability Scanner</a>|
 | Problem Solving                               | <a href="https://github.com/Jawnzee/NetScanner/tree/main">Network Scanner</a>|
 
 ## Tools
@@ -34,6 +36,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> 
 </div>
 
+### Vulnerability Scanning & Analysis
+<div>
+    <img src="https://img.shields.io/badge/-nvdlib-FF4500?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-National_Vulnerability_Database-005571?&style=for-the-badge&logo=NIST&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -43,3 +51,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/Jawnzee/IP-Sweeper/tree/main">IP Sweeper: </a> A Bash script for scanning and identifying active IP addresses within a given range, useful for network monitoring and security assessments.
 - <a href="https://github.com/Jawnzee/NetScanner/tree/main">Network Scanner: </a> A Python-based network scanning tool that identifies active hosts and open ports, leveraging the Scapy library for packet crafting and analysis.
+- <a href="https://github.com/Jawnzee/VulScanner/tree/main">Vulnerability Scanner: </a> A Python-based vulnerability scanner that identifies active hosts, open ports, and associated vulnerabilities by querying the National Vulnerability Database.
