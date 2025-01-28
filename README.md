@@ -1,7 +1,7 @@
 # Hello, my name is Jonathan
 <a href="https://www.linkedin.com/in/jonathan-perez-59757418a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity enthusiast and student with a passion for protecting digital landscapes. I’m currently pursuing my degree in cybersecurity, set to graduate in Spring 2025. My GitHub portfolio showcases various projects and tools I’ve developed as I dive deeper into information security. I am constantly honing my skills in network security, ethical hacking, and cyber defense. Feel free to explore my work, and don’t hesitate to connect with me if you share a passion for keeping our digital world safe!
+I am a cybersecurity enthusiast and student with a passion for protecting digital landscapes. I’m pursuing my cybersecurity degree and am set to graduate in Spring 2025. My GitHub portfolio showcases various projects and tools I’ve developed as I dive deeper into information security. I am constantly honing my network security, ethical hacking, and cyber defense skills. Feel free to explore my work, and don’t hesitate to contact me if you have any questions regarding some of my projects.
 
 ## Objective
 
