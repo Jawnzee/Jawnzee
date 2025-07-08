@@ -11,6 +11,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Virtualization & VM Management                | <a href="https://github.com/Jawnzee/Virtual-HomeLab/tree/main">Virtual HomeLab</a>|
+| Linux System Administration                   | <a href="https://github.com/Jawnzee/Virtual-HomeLab/tree/main">Virtual HomeLab</a>|
+| Automation & Scripting                        | <a href="https://github.com/Jawnzee/Virtual-HomeLab/tree/main">Virtual HomeLab</a>|
+| Professional Documentation                    | <a href="https://github.com/Jawnzee/Virtual-HomeLab/tree/main">Virtual HomeLab</a>|
 | Bash Scripting                                | <a href="https://github.com/Jawnzee/IP-Sweeper/tree/main">IP Sweeper</a>|
 | Python Programming                            | <a href="https://github.com/Jawnzee/NetScanner/tree/main">Network Scanner</a>|
 | Networking Fundamentals                       | <a href="https://github.com/Jawnzee/IP-Sweeper/tree/main">IP Sweeper</a>, <a href="https://github.com/Jawnzee/NetScanner/tree/main">Network Scanner</a>|
@@ -32,6 +36,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Scripting & Automation
 <div> 
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> 
 </div>
@@ -49,6 +54,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+- <a href="https://github.com/Jawnzee/Virtual-HomeLab/tree/main">Virtual HomeLab: </a> A documented, portable virtualization environment using VMware Fusion Player, featuring Kali Linux and Ubuntu Server VMs with automated setup scripts and configuration for cybersecurity practice.
 - <a href="https://github.com/Jawnzee/IP-Sweeper/tree/main">IP Sweeper: </a> A Bash script for scanning and identifying active IP addresses within a given range, useful for network monitoring and security assessments.
 - <a href="https://github.com/Jawnzee/NetScanner/tree/main">Network Scanner: </a> A Python-based network scanning tool that identifies active hosts and open ports, leveraging the Scapy library for packet crafting and analysis.
 - <a href="https://github.com/Jawnzee/VulScanner/tree/main">Vulnerability Scanner: </a> A Python-based vulnerability scanner that identifies active hosts, open ports, and associated vulnerabilities by querying the National Vulnerability Database.
